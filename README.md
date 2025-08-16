@@ -3,10 +3,10 @@
 ### About me
 - 🎓 I'm a Computer Science Engineering student at the University of Michigan
 
-### Currently working on
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  
-- Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.  
-- Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+### 🔧 Currently Working On  
+- Developing a full-stack web application using **React**, **Tailwind CSS**, and **FastAPI** to generate professional LaTeX resumes from structured JSON input.  
+- Designing a modular frontend with customizable resume sections, real-time preview, theme toggle, and QR code generation to enhance usability and flexibility.  
+- Building a backend resume engine with **XeLaTeX** template rendering, API endpoints for data upload/template selection, and deployment on **Render** for scalable access.  
 
 ### Tech Stack  
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,c,cpp,css,git,github,html,java,js,linux,bash,py,react,vscode,node,docker,wordpress,vue,arduino&theme=light)](https://skillicons.dev#gh-light-mode-only)
