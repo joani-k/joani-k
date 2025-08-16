@@ -9,8 +9,8 @@
 - Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 ### Tech Stack  
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,c,cpp,css,git,github,html,java,js,linux,bash,py,react,vscode,node,mongodb,docker,aws,flutter,wordpress,vue,arduino&theme=light)](https://skillicons.dev#gh-light-mode-only)
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,c,cpp,css,git,github,html,java,js,linux,bash,py,react,vscode,node,mongodb,docker,aws,flutter,wordpress,vue,arduino&theme=dark)](https://skillicons.dev#gh-dark-mode-only)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,c,cpp,css,git,github,html,java,js,linux,bash,py,react,vscode,node,docker,wordpress,vue,arduino&theme=light)](https://skillicons.dev#gh-light-mode-only)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,c,cpp,css,git,github,html,java,js,linux,bash,py,react,vscode,node,docker,wordpress,vue,arduino&theme=dark)](https://skillicons.dev#gh-dark-mode-only)
 
 ### Connect with me  
 
